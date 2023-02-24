@@ -1,0 +1,21 @@
+let text = '{ "employees" : [' +
+'{ "firstName":"John" , "lastName":"Doe" },' +
+'{ "firstName":"Anna" , "lastName":"Smith" },' +
+'{ "firstName":"Peter" , "lastName":"Jones" } ]}';
+
+
+JSON.parse(text)
+
+
+for (var i=0;i<text.length;i++){
+    console.log(text[i])
+}
+
+
+for (var value in text){
+    console.log(text)
+}
+
+for (value of text){
+    console.log(text)
+}

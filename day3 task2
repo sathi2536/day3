@@ -1,0 +1,39 @@
+{
+"name": "Sathish",
+"education": [
+{
+"degree": "B.Sc Aviation",
+"year": "2019"
+}
+],
+"skills": {
+"programming": [
+"HTML",
+"CSS",
+"JavaScript",
+"Node.js",
+"React"
+],
+"database": [
+"MySQL",
+"MongoDB"
+]
+},
+"experience": [
+{
+"title": "Full Stack Web Developer",
+"company": "ABC Technologies",
+"duration": "Jan 2020 - Present",
+"description": "Responsible for designing and developing web applications using Node.js, React and MySQL."
+},
+{
+"title": "Intern",
+"company": "XYZ Company",
+"duration": "May 2018 - Jul 2018",
+"description": "Worked on developing a web application using HTML, CSS and JavaScript."
+}
+],
+"contact": {
+"email": "sathishkumar2536@gmail.com",
+"phone": "+91 979102413"
+}
